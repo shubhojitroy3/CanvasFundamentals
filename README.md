@@ -1,9 +1,10 @@
 # CanvasFundamentals
 
 ### Primary goal
-Implementing Canvas fundamentals while learning. Also creating generic modules on the go 
+Implementing Canvas fundamentals while learning.
 
 ### Secondary goal
+create generic modules
 
 ### Languages/Tools/Frameworks
  - ES6/2015
