@@ -6,11 +6,6 @@ Implementing Canvas fundamentals while learning.
 ### Secondary goal
 create generic modules
 
-### Languages/Tools/Frameworks
- - ES6/2015
- - Mocha + Chai + Karma
- - Visual Studio Code
-
 I'm attempting to write components in a way that they are not dependent on third party libraries and frameworks as much as possible.
 
 ### References
